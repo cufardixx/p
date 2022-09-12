@@ -30,7 +30,8 @@ body{
 
 .main-container{
     width: 328px;
-    margin: 77px auto;
+    margin: 0 auto;
+    margin-top: 60px;
 }    
 
 .first-section{
@@ -183,7 +184,7 @@ body{
     }
 
     .main-card__user{
-        height: 365px;
+        height: 345px;
         flex-direction: column;
     }
     .main-card__title{
@@ -230,7 +231,9 @@ body{
 
     .card__hour{
         font-size: 3em;
+        padding-bottom: 10px;
     }
+
 
 
 

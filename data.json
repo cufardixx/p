@@ -4,15 +4,18 @@
     "timeframes": {
       "daily": {
         "current": 5,
-        "previous": 7
+        "previous": 7,
+        "namePrevius": "Last Day"
       },
       "weekly": {
         "current": 32,
-        "previous": 36
+        "previous": 36,
+        "namePrevius": "Last Week"
       },
       "monthly": {
         "current": 103,
-        "previous": 128
+        "previous": 128,
+        "namePrevius": "Last Month"
       }
     }
   },
@@ -21,15 +24,18 @@
     "timeframes": {
       "daily": {
         "current": 1,
-        "previous": 2
+        "previous": 2,
+        "namePrevius": "Last Day"
       },
       "weekly": {
         "current": 10,
-        "previous": 8
+        "previous": 8,
+        "namePrevius": "Last Week"
       },
       "monthly": {
         "current": 23,
-        "previous": 29
+        "previous": 29,
+        "namePrevius": "Last Month"
       }
     }
   },
@@ -38,15 +44,18 @@
     "timeframes": {
       "daily": {
         "current": 0,
-        "previous": 1
+        "previous": 1,
+        "namePrevius": "Last Day"
       },
       "weekly": {
         "current": 4,
-        "previous": 7
+        "previous": 7,
+        "namePrevius": "Last Week"
       },
       "monthly": {
         "current": 13,
-        "previous": 19
+        "previous": 19,
+        "namePrevius": "Last Month"
       }
     }
   },
@@ -55,15 +64,18 @@
     "timeframes": {
       "daily": {
         "current": 1,
-        "previous": 1
+        "previous": 1,
+        "namePrevius": "Last Day"
       },
       "weekly": {
         "current": 4,
-        "previous": 5
+        "previous": 5,
+        "namePrevius": "Last Week"
       },
       "monthly": {
         "current": 11,
-        "previous": 18
+        "previous": 18,
+        "namePrevius": "Last Month"
       }
     }
   },
@@ -72,15 +84,18 @@
     "timeframes": {
       "daily": {
         "current": 1,
-        "previous": 3
+        "previous": 3,
+        "namePrevius": "Last Day"
       },
       "weekly": {
         "current": 5,
-        "previous": 10
+        "previous": 10,
+        "namePrevius": "Last Week"
       },
       "monthly": {
         "current": 21,
-        "previous": 23
+        "previous": 23,
+        "namePrevius": "Last Month"
       }
     }
   },
@@ -89,15 +104,18 @@
     "timeframes": {
       "daily": {
         "current": 0,
-        "previous": 1
+        "previous": 1,
+        "namePrevius": "Last Day"
       },
       "weekly": {
         "current": 2,
-        "previous": 2
+        "previous": 2,
+        "namePrevius": "Last Week"
       },
       "monthly": {
         "current": 7,
-        "previous": 11
+        "previous": 11,
+        "namePrevius": "Last Month"
       }
     }
   }
